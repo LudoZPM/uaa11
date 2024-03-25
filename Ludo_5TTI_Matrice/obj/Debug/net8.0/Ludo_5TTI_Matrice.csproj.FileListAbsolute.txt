@@ -1,0 +1,14 @@
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\bin\Debug\net8.0\Ludo_5TTI_Matrice.exe
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\bin\Debug\net8.0\Ludo_5TTI_Matrice.deps.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\bin\Debug\net8.0\Ludo_5TTI_Matrice.runtimeconfig.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\bin\Debug\net8.0\Ludo_5TTI_Matrice.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\bin\Debug\net8.0\Ludo_5TTI_Matrice.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.AssemblyInfoInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.AssemblyInfo.cs
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.csproj.CoreCompileInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\refint\Ludo_5TTI_Matrice.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\Ludo_5TTI_Matrice.genruntimeconfig.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\Ludo_5TTI_Matrice\obj\Debug\net8.0\ref\Ludo_5TTI_Matrice.dll

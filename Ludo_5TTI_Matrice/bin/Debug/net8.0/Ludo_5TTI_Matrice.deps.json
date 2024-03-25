@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ludo_5TTI_Matrice/1.0.0": {
+        "runtime": {
+          "Ludo_5TTI_Matrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ludo_5TTI_Matrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
