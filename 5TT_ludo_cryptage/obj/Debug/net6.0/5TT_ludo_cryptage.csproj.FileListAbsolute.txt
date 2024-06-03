@@ -1,0 +1,14 @@
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.AssemblyInfoInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.AssemblyInfo.cs
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.csproj.CoreCompileInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\bin\Debug\net6.0\5TT_ludo_cryptage.exe
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\bin\Debug\net6.0\5TT_ludo_cryptage.deps.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\bin\Debug\net6.0\5TT_ludo_cryptage.runtimeconfig.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\bin\Debug\net6.0\5TT_ludo_cryptage.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\bin\Debug\net6.0\5TT_ludo_cryptage.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\refint\5TT_ludo_cryptage.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\5TT_ludo_cryptage.genruntimeconfig.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\5TT_ludo_cryptage\obj\Debug\net6.0\ref\5TT_ludo_cryptage.dll
