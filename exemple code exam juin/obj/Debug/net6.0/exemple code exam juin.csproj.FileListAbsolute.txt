@@ -1,0 +1,14 @@
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\bin\Debug\net6.0\exemple code exam juin.exe
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\bin\Debug\net6.0\exemple code exam juin.deps.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\bin\Debug\net6.0\exemple code exam juin.runtimeconfig.json
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\bin\Debug\net6.0\exemple code exam juin.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\bin\Debug\net6.0\exemple code exam juin.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.AssemblyInfoInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.AssemblyInfo.cs
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.csproj.CoreCompileInputs.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\refint\exemple code exam juin.dll
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.pdb
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\exemple code exam juin.genruntimeconfig.cache
+C:\Users\beche\Desktop\Ecole\5ème\info\C#\exemple code exam juin\obj\Debug\net6.0\ref\exemple code exam juin.dll
