@@ -1,0 +1,14 @@
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.GeneratedMSBuildEditorConfig.editorconfig
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.AssemblyInfoInputs.cache
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.AssemblyInfo.cs
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.csproj.CoreCompileInputs.cache
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\bin\Debug\net6.0\CeUAA11_23_24_LoukaConstant.exe
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\bin\Debug\net6.0\CeUAA11_23_24_LoukaConstant.deps.json
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\bin\Debug\net6.0\CeUAA11_23_24_LoukaConstant.runtimeconfig.json
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\bin\Debug\net6.0\CeUAA11_23_24_LoukaConstant.dll
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\bin\Debug\net6.0\CeUAA11_23_24_LoukaConstant.pdb
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.dll
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\refint\CeUAA11_23_24_LoukaConstant.dll
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.pdb
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\CeUAA11_23_24_LoukaConstant.genruntimeconfig.cache
+H:\CeUAA11_23_24_LoukaConstant\CeUAA11_23_24_LoukaConstant\obj\Debug\net6.0\ref\CeUAA11_23_24_LoukaConstant.dll
